@@ -2,6 +2,6 @@
     Himanshu Raj
     23BCS12415
 
-``bash
+``` bash
 git init; git add .; git commit -m "Experiment Submissions";git push
 ```
